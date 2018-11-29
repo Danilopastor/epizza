@@ -53,7 +53,9 @@
   width: 100%;
   z-index: 2;
 }
-
+.fixed-plugin{
+  background: inherit;
+}
 #map {
   z-index: 2;
   height: calc(100vh - 70px);
